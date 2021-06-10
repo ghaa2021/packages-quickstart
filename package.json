@@ -1,6 +1,6 @@
 {
   "name": "@ghaa2021/packages-quickstart",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "following the quickstart",
   "main": "index.js",
   "scripts": {
